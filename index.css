@@ -1,0 +1,55 @@
+body{
+  text-align: center;
+  background: lightblue;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#bro-img{
+   width: 150px;
+   border-radius: 50%;
+   border: 50px palevioletred;
+   
+}
+h1, h2, h4{
+    text-shadow: 0px 0px 1px black;
+  
+}
+
+#header{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+#bday-age{
+    background: palevioletred;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0px 10px 0px;
+
+}
+#bday-date{
+  margin: 0px;
+  background: palevioletred;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.cov-er{
+  width: 400px;
+  border: 6px solid white;
+  border-radius: 10px; 
+ 
+}
+.gift-section{
+   margin-top: 50px;
+
+}
+.hov-er{
+   margin-top: 0px;
+
+}
+.hap-py{
+   margin-bottom: 10px;
+
+}
